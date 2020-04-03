@@ -2,8 +2,8 @@
 Inline-style:
 ![sample image render](https://github.com/bxbrenden/Blender-CoffeePress/blob/master/Blender-CoffeePress_small.png "Blender Coffee Press sample rendering")
 
+## Description
 This is a rigged, textured, animated model of an coffee press that I made in Blender.
-
 The materials are meant for Cycles rendering engine and won't look right in Eevee.
 
 ##  Usage
